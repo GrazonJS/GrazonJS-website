@@ -3,9 +3,10 @@
 }
 
 .hero-bg {
-  background: linear-gradient(-90deg, #01270d, #24034a, #000000);
+  background: linear-gradient(-90deg, #043714, #24034a, #000000);
   background-size: 400% 400%;
   animation: gradient 30s ease infinite;
+  background-color: ;
 }
 @keyframes gradient {
   0%,
