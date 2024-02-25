@@ -1,7 +1,9 @@
 * {
   box-sizing: border-box;
 }
-
+body {
+  background-color: #000000;
+}
 .hero-bg {
   background: linear-gradient(-90deg, #043714, #24034a, #000000);
   background-size: 400% 400%;
