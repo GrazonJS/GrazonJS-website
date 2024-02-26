@@ -2,6 +2,7 @@ import "./App.css";
 import Hero from "./Components/Hero";
 
 import AboutPage from "./Components/AboutPage";
+import AboutMePage from "./Pages/AboutMePage";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
       <div>
         <Hero />
         <AboutPage />
-        <div className="h-screen relative  bg-white ">hello</div>
+        <AboutMePage />
         <div className="h-screen relative bg-gray-700">world</div>
       </div>
     </>

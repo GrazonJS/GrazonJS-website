@@ -18,3 +18,12 @@ body {
     background-position: 100% 50%;
   }
 }
+.bg-about-me {
+  background-size: 142% 149%;
+  background-position: 0px 0px;
+  background-image: radial-gradient(
+    144% 91% at -67% 6%,
+    #036fcdff 0%,
+    #000000ff 100%
+  );
+}
